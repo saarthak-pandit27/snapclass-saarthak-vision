@@ -1,0 +1,13 @@
+.env
+.vscode
+
+*.pyc
+.DS_Store
+_pycache_/
+
+venv/
+.streamlit/secrets.toml
+
+dist/
+tempCodeRunnerFile.py
+src/components/tempCodeRunnerFile.py
