@@ -3,6 +3,7 @@
 Welcome to SnapClass — an AI-powered attendance and classroom management platform designed to automate student attendance using Face Recognition, Voice Biometric Verification, and QR-based enrollment.
 
 🌐 Live Application: SnapClass
+https://snapclass-vision.streamlit.app/
 
 ⸻
 
