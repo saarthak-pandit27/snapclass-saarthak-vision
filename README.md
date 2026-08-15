@@ -64,45 +64,7 @@ Face Recognition   Voice Verification
 
 ⸻
 
-📂 Repository Structure
 
-SnapClass/
-│
-├── app.py
-├── requirements.txt
-├── README.md
-├── .gitignore
-│
-├── assets/
-│   ├── images/
-│   ├── icons/
-│   └── css/
-│
-├── components/
-│   ├── student/
-│   ├── teacher/
-│   └── dashboard/
-│
-├── services/
-│   ├── authentication/
-│   ├── face_recognition/
-│   ├── voice_verification/
-│   └── attendance/
-│
-├── database/
-│   ├── connection.py
-│   └── queries.py
-│
-├── models/
-│   └── biometric_models/
-│
-├── utils/
-│   ├── helpers.py
-│   └── validators.py
-│
-└── data/
-
-⸻
 
 🚀 Local Development Setup
 
